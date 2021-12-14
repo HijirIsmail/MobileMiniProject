@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment"
     android:orientation="vertical"
-    android:background="@color/purple_700">
+    android:background="@color/BlueGrey_700">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyview_home"
